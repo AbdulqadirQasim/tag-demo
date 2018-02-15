@@ -8,6 +8,7 @@
 # THANKS
 
     grandalf the grey
+    abdulqadir qasim
 
 # TECHNOLOGY COLOPHON
 
