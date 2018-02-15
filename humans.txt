@@ -7,9 +7,10 @@
 
 # THANKS
 
-    <name>
+    grandalf the grey
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    java, c#, more java
